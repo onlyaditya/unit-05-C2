@@ -1,0 +1,14 @@
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+#addgame{
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: 20px;
+    width: 50%;
+    margin: 20px auto;
+}
+
+
